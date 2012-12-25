@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class BackgroundTexture extends MovieClip {						public function BackgroundTexture() {			// constructor code		}	}	}
