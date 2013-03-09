@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip	import flash.text.TextField;	public class BuyButton extends MovieClip {	public var targetProduct:ShopProduct	public var targetCostLabel:MovieClip		public function BuyButton() {			// constructor code		}	}	}
