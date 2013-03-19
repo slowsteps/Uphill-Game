@@ -6,5 +6,5 @@ flashProFiles/flashProID=1355574483965
 flashProFiles/asVersion=0
 flashProFiles/boundTemplate=${FLASHPRO_USERCONFIG}/ActionScript 3.0/Templates/boundClass_as3.as
 flashProFiles/classTemplate=${FLASHPRO_USERCONFIG}/ActionScript 3.0/Templates/standardClass_as3.as
-flashProFiles/recentFiles=Flare.as;Emitter.as;TextBalloon.as;GameoverScreen.as;car.fla;Main.as;Gamestate.as;GameLoader.as;PickupEffect.as;Pickup.as;Shop.as;Particle.as;Intro.as;BuyButton.as;ShopProduct.as;CarContactListener.as;Slice.as;Car.as;Crosshair.as
+flashProFiles/recentFiles=Intro.as;Shop.as;ShopProduct.as;Ending.as;GameoverScreen.as;ButtonEffects.as;BuyButton.as;Pickup.as;TextBalloon.as;Gamestate.as;Particle.as;Main.as;car.fla;GameLoader.as;Flare.as;Emitter.as;PickupEffect.as;CarContactListener.as;Slice.as;Car.as;Crosshair.as
 flashProFiles/locations=

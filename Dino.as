@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip	public class Dino extends MovieClip {		public function Dino() {			stop()			// constructor code		}		public function laugh() {			gotoAndPlay("laugh")										}	}	}
