@@ -1,0 +1,145 @@
+﻿car.swf Movie Report
+---------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       929    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2011-07-07T18:54:40+02:00</xmp:CreateDate> <xmp:MetadataDate>2013-03-21T09:11:55+01:00</xmp:MetadataDate> <xmp:ModifyDate>2013-03-21T09:11:55+01:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:0180117407206811822AFFEC8FCC7F2C</stRef:instanceID> <stRef:documentID>xmp.did:1108B005BAA8E011A045B1208207BB0A</stRef:documentID> <stRef:originalDocumentID>xmp.did:1108B005BAA8E011A045B1208207BB0A</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:7336E50B12206811822AFFEC8FCC7F2C</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:7336E50B12206811822AFFEC8FCC7F2C</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:1108B005BAA8E011A045B1208207BB0A</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1           1706           1706    Scene 1
+      2         377592         379298     (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                153952
+
+Symbol                  Shape Bytes    Text Bytes    ActionScript Bytes
+--------------------    -----------    ----------    ------------------
+frame2 dummy                     39           110                     0
+gameLoader                        0             0                     0
+background                       28             0                     0
+sky background                    0             0                     0
+moregamesbutton                   0             0                     0
+nextbutton                        0             0                     0
+souvenir t-shirt                755           135                     0
+startbutton                       0             0                     0
+buyButton                         0             0                     0
+Balloon down arrow               67             0                     0
+Balloon Right arrow              68             0                     0
+cardown                         943             0                     0
+clearCookieButton                 0            36                     0
+Car                            1196             0                     0
+earLeft                          98             0                     0
+earRight                        126             0                     0
+Crosshair                        70             0                     0
+dialogue button                   0             0                     0
+dino                              0             0                     0
+dinorightarm                    450             0                     0
+dinotail                        193             0                     0
+dinoleftfoot                    299             0                     0
+dinorightfoot                   269             0                     0
+dinoleftarm                     165             0                     0
+dinojaw                         244             0                     0
+dinobody                        192             0                     0
+dinohead                          0             0                     0
+dinojetpack                     148             0                     0
+head                            477             0                     0
+jetpack                         759             0                     0
+dinoTextBalloon                  74           147                     0
+ending photo                   3751             0                     0
+endingScreen                      0             0                     0
+<Path>_3                          0             0                     0
+<Path>_2                          0             0                     0
+Emitter                          43             0                     0
+fireSparkParticle               144             0                     0
+flare                             0             0                     0
+FlareRing                        59             0                     0
+eyelids                          78             0                     0
+head                            477             0                     0
+jetpack                         759             0                     0
+eyelids                          78             0                     0
+Fuel                             41             0                     0
+gameoverscreen                    0           243                     0
+hudprogressbar                   42             0                     0
+HillgroundTexture                 0             0                     0
+Intro (main menu)                 0           138                     0
+textBalloon                      68           141                     0
+logo                              0             0                     0
+rabbit upright                 1016             0                     0
+jetpack                         759             0                     0
+maskclip                         30             0                     0
+moregames                         0             0                     0
+Main                              0           256                     0
+partcile star                    33             0                     0
+particleOrange                    0             0                     0
+particleWhite                     0             0                     0
+portalback                      666             0                     0
+PortalGlass                       0             0                     0
+portalfront                     425             0                     0
+portalwindow                    320             0                     0
+productBackdrop                  30             0                     0
+productCostLabel                301           119                     0
+ParticleBlack                     0             0                     0
+Pickup                          573             0                     0
+PickupEffect                      0             0                     0
+rabbit tail                       0             0                     0
+rabbithead                        0             0                     0
+Rabbit                            0             0                     0
+shop                             51           141                     0
+Start                            54             0                     0
+sparkParticle                   120             0                     0
+Slice                             0             0                     0
+testParticle                     48             0                     0
+textbackgrnd                      0             0                     0
+thumbDice                       745             0                     0
+thumbEngine                    1157             0                     0
+thumbFuelTank                  2135             0                     0
+thumbWheel                     1624             0                     0
+Tween 1                           0             0                     0
+upgradeIconBought                 0             0                     0
+upgradeIconNotBought              0             0                     0
+Wheel                           512            31                     0
+
+Font Name                   Bytes         Characters
+------------------------    ----------    ----------
+Erbos-Draco-1st-Open-NBP         10931     $.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 
+BernardMT-Condensed               9182     $.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 
+NovelSansRdPro-SemiBold            882    ginuw
+Interstate-Bold                  10871     !"#$&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+_sans                               20    
+
+ActionScript Bytes    Location
+------------------    --------
+               726    Scene 1:Frame 1
+            153226    Scene 1:Frame 2
+
+Bitmap                 Compressed    Original      Compression
+-------------------    ----------    ----------    -----------
+FlashAICB Assets              754          3600    JPEG Quality=90
+FlashAICB Assets              766          3600    JPEG Quality=90
+Bitmap 10                   72994       1440000    JPEG Quality=90
+nextbutton.png               1668         42244    Lossless
+garage.png                   1819         28356    Lossless
+coinframe_03.png              458         55200    Lossless
+moregamesbutton.png          4561         45864    JPEG Quality=90
+particlesmoke.png             500          4096    Lossless
+<Mesh>                      28460       1548780    JPEG Quality=90
+particlewhite.png             685          4096    Lossless
+particleorange.png            500          4096    Lossless
+fuelfill.png                 1120         32448    JPEG Quality=90
+hudcarrot.png                2132         17472    JPEG Quality=90
+fuelborder.png                801         44164    Lossless
+hudportal.png                1628         10336    Lossless
+startbutton.png              1654         42244    Lossless
+Bitmap 9.png                15620        224352    Lossless
+grastexture.png              1323        192000    JPEG Quality=90
+GameoverScreen.png          22132        360360    JPEG Quality=90
+theend.png                   2152         34400    Lossless
+buybutton.png                1468         18200    Lossless
+
+
+
+
